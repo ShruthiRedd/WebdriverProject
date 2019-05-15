@@ -29,13 +29,13 @@ Create a new project through File > New > Java Project. Name the project as "Sel
 
 Step 6:Clone the Project from https://github.com/ShruthiRedd/WebdriverProject.git
 
-Step 7:Open the project's properties---> Java Build Path ---> Libraries tab ---> Add External Jars
+Step 7: In Eclipse,Open the project's properties---> Java Build Path ---> Libraries tab ---> Add External Jars
 Add the below required libraries for our project libraries 
 commons-io-2.6.jar 
 selenium-server-standalone-3.141.59.jar
 
 
-Document complete instructions to execute automated tests
+Instructions to execute automated tests
 
 Once all the above steps are successfully completed .
 Navigate to Main class -HelloWorld.java in ecilpse and click on Run button

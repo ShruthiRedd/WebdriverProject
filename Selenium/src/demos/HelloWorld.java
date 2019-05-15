@@ -4,7 +4,7 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.io.Writer;
+//import java.io.Writer;
 import java.util.concurrent.TimeUnit;
 import java.util.List;
 import org.apache.commons.io.FileUtils;
@@ -53,8 +53,7 @@ public class HelloWorld {
 //              WebElement row = i.next();
 //              System.out.println(row.getText());
 //          }
-       
-          System.out.println(s);
+
           System.out.println(alllinkspresent.size());
        
           //Write the links to temp.txt file.

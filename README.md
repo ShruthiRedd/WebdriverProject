@@ -1,4 +1,5 @@
 Instructions to install all automation components
+
 Step 1 - Install Java on your computer
 Download and install the Java Software Development Kit (JDK) from https://www.oracle.com/technetwork/java/javase/downloads/index.html
 This JDK version comes bundled with Java Runtime Environment (JRE), so you do not need to download and install the JRE separately.
